@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://herculesc.github.io/herculessantos.github.io/sitemap.xml
